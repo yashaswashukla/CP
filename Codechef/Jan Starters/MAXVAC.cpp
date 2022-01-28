@@ -11,6 +11,8 @@ void solve()
     bool PowerUsed = false;
     int n, x;
     cin >> n >> x;
+    int kc;
+    cin>>kc;
     string s;
     cin >> s;
     int size = 0, ans = 0;
